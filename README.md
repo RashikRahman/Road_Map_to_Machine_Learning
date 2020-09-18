@@ -42,11 +42,31 @@ Now you are familiar with most of the terms of machine learning. So lets advance
 - [Pandas for Data Analysis scipy 2017 daniel chen](https://www.youtube.com/watch?v=oGzU688xCUs)
 - [Python For Data Science Training](https://www.youtube.com/playlist?list=PLZ7s-Z1aAtmIbaEj_PtUqkqdmI1k7libK)
     
+    
+### 5.[Machine Learning BY Andrew Ng, Stanford University](https://www.coursera.org/learn/machine-learning)
+
+This is a intermediate level machine learning course. Here you'll learn the core maths behind machine learning models, cost functions, boosting algorithm, optimization algorithm etc. This course is only recommended to those who are highly motivated and have dedication to learn the maths behind machine learning. The labs of this course will be in matlab. It's not based on python or R.Upon completion you'll get a certificate like given below. This is a paid course so to get the certificate you'll have to pay. But if you are financially unstable you can apply for financial aid. They'll reply within 15 days to let you know if your application is approved or not.
+
+![Imgur](https://i.imgur.com/OB4KBRE.png)
+
+
+### 6.[Applied Data Science with Python](https://www.coursera.org/specializations/data-science-python)
+
+This is an intermediate course offered by University of Michigan. You'll learn about text mining, data visualization, machine learning on text data etc. This is a paid course so to get the certificate you'll have to pay. But if you are financially unstable you can apply for financial aid. They'll reply within 15 days to let you know if your application is approved or not.
+
+![Imgur](https://i.imgur.com/OYCC0Vd.png)
+
+
+### 7.[Advanced Data Science with IBM Specialization](https://www.coursera.org/specializations/advanced-data-science-ibm)
+
+This is an advance level course offered by IBM. Here you'll learn about parallel programming, big data, scalable data science, apache spark, basics of deep learning, signal processing, machine learning, statistics.This is a paid course so to get the certificate you'll have to pay. But if you are financially unstable you can apply for financial aid. They'll reply within 15 days to let you know if your application is approved or not.
+
+![Imgur](https://i.imgur.com/BHTmLsE.png)
 
 
 
 
-
+**If you complete this list you'll be able to develop intermediate level machine learning model or handle data science task. Now this world machine learning and data science is open to you to explore. Wish you best of luck. Enjoy coding**
 
 
 
