@@ -13,11 +13,15 @@ Click [here](https://www.youtube.com/watch?v=A5YyoCKxEOU) to see some capabiliti
 
 
 
-**This is a road map to become a data scientist/to learn machine learning.**
+## This is a road map to become a data scientist/to learn machine learning.
 
 I'll enlist some courses and tutorials to get you started in this field. This is a zero to intermediate level suggestion list maintaining the order.
 
-1. [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=10-days-of-statistics&badge_type=10-days-of-statistics)
+### [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=10-days-of-statistics&badge_type=10-days-of-statistics)
+
+
+
+
 
 
 
