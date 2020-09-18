@@ -36,11 +36,11 @@ Now you are familiar with most of the terms of machine learning. So lets advance
 
 ### 4.Some intermediate youtube courses.
 
-    - [Numpy Scipy by AmulsAcademy](https://www.youtube.com/watch?v=NVTWjd_UpzM&list=PLzgPDYo_3xunaO-noMnBzc3KzzToOcxVY)
-    - [Daniel Chen, Cleaning and Tidying Data in Pandas, PyData DC 2018](https://www.youtube.com/watch?v=NVTWjd_UpzM&list=PLzgPDYo_3xunaO-noMnBzc3KzzToOcxVY)
-    - [Introduction to Data Processing in Python with Pandas  SciPy 2019 Tutorial  Daniel Chen](https://www.youtube.com/watch?v=5rNu16O3YNE)
-    - [Pandas for Data Analysis scipy 2017 daniel chen](https://www.youtube.com/watch?v=oGzU688xCUs)
-    - [Python For Data Science Training](https://www.youtube.com/playlist?list=PLZ7s-Z1aAtmIbaEj_PtUqkqdmI1k7libK)
+- [Numpy Scipy by AmulsAcademy](https://www.youtube.com/watch?v=NVTWjd_UpzM&list=PLzgPDYo_3xunaO-noMnBzc3KzzToOcxVY)
+- [Daniel Chen, Cleaning and Tidying Data in Pandas, PyData DC 2018](https://www.youtube.com/watch?v=NVTWjd_UpzM&list=PLzgPDYo_3xunaO-noMnBzc3KzzToOcxVY)
+- [Introduction to Data Processing in Python with Pandas  SciPy 2019 Tutorial  Daniel Chen](https://www.youtube.com/watch?v=5rNu16O3YNE)
+- [Pandas for Data Analysis scipy 2017 daniel chen](https://www.youtube.com/watch?v=oGzU688xCUs)
+- [Python For Data Science Training](https://www.youtube.com/playlist?list=PLZ7s-Z1aAtmIbaEj_PtUqkqdmI1k7libK)
     
 
 
