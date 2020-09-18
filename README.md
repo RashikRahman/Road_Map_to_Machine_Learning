@@ -30,8 +30,18 @@ This specialization course is highly recommended to get you started in the world
 
 ### 3.[Data Science Full Course For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
 
+This is a youtube course offered by codebasics. This is the by far best course in youtube on data science for beginners. You'll learn a lot of things here. This course is also highly recommended.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JL_grPUnXzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Now you are familiar with most of the terms of machine learning. So lets advance to intermediate level. Below are some youtube course recommendation.
+
+### 4.Some intermediate youtube courses.
+
+    - [Numpy Scipy by AmulsAcademy](https://www.youtube.com/watch?v=NVTWjd_UpzM&list=PLzgPDYo_3xunaO-noMnBzc3KzzToOcxVY)
+    - [Daniel Chen, Cleaning and Tidying Data in Pandas, PyData DC 2018](https://www.youtube.com/watch?v=NVTWjd_UpzM&list=PLzgPDYo_3xunaO-noMnBzc3KzzToOcxVY)
+    - [Introduction to Data Processing in Python with Pandas  SciPy 2019 Tutorial  Daniel Chen](https://www.youtube.com/watch?v=5rNu16O3YNE)
+    - [Pandas for Data Analysis scipy 2017 daniel chen](https://www.youtube.com/watch?v=oGzU688xCUs)
+    - [Python For Data Science Training](https://www.youtube.com/playlist?list=PLZ7s-Z1aAtmIbaEj_PtUqkqdmI1k7libK)
+    
 
 
 
