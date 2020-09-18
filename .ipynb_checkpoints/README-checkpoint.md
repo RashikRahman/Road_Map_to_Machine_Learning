@@ -28,6 +28,12 @@ This specialization course is highly recommended to get you started in the world
 
 ![Imgur](https://i.imgur.com/m5aGcsK.png)
 
+### 3.[Data Science Full Course For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3us_ELKYSj_Fth2tIEkdKXvV)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JL_grPUnXzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
