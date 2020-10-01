@@ -1,4 +1,4 @@
-# Road_Map_to_Machine_Learning
+# Road_Map_to_Machine_Learning  (Thanks for that brother)
 
 Hey this is Rashik Rahman a machine learning enthusiast. You can check out portfolio and projects [here](https://rashikrahman.github.io/Website/).
 
